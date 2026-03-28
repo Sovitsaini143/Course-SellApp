@@ -1,1 +1,1 @@
-   export const BACKEND_URL =  "https://course-sellapp.onrender.com"
+   export const BACKEND_URL =  "https://course-sellapp.onrender.com/api/v1"
